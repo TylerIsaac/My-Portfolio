@@ -21,12 +21,12 @@ function Header() {
                             </li>
                             <li>
                                 <a className="nav-link " href="https://github.com/TylerIsaac">
-                                    <img src={github} className="gitcon rounded-circle shadow" alt="linekdin icon"/>
+                                    <img src={github} className="gitcon rounded-circle shadow" alt="github"/>
                                 </a>
                             </li>
                             <li>
-                                <a className="nav-link " href="https://github.com/TylerIsaac">
-                                    <img src={email} className="gitcon rounded-circle shadow" alt="linekdin icon"/>
+                                <a className="nav-link " href="tiisaac@comcast.net">
+                                    <img src={email} className="gitcon rounded-circle shadow" alt="email"/>
                                 </a>
                             </li>
                         </ul>

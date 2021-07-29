@@ -33,7 +33,7 @@ const HomeBody = () => {
                     <div className="card-body row">
                         <div className="card-group">
                             <div className="card col" >
-                                <img src={decoderRing} className="img-fluid" />
+                                <img src={decoderRing} className="img-fluid" alt="decoder-ring" />
                                 <hr/>
                                 <div className="card-body">
                                     <h5 className="card-title">Project Decoder Ring</h5>
@@ -53,7 +53,7 @@ const HomeBody = () => {
                                 </div>
                             </div>
                             <div className="card col">
-                                <img src={thinkfulbnb} className="img-fluid" />
+                                <img src={thinkfulbnb} className="img-fluid" alt="thinkfulbnb" />
                                 <hr/>
                                 <div className="card-body">
                                     <h5>Thinkfulbnb</h5>
